@@ -4,7 +4,7 @@
 
 <h3> How to run this Project on your device <h3/>
  <ul>
-  <li> Clone the project using command: git clone [url of repo]</li>
-  <li> After that, install node modules using command: npm install </li>
+  <li> Clone the project using command: "git clone [url of repo]"</li>
+  <li> After that, install node modules using command: "npm install" </li>
   <li> Now, just run; "npm run dev" </li>
 </ul>
